@@ -26,7 +26,7 @@ port_max = 65535
 
 # Basic user interface header
 print("\n****************************************************************")
-print("\n*            https://www.youtube.com/techwithyayo              *")
+print("\n*   https://www.youtube.com/channel/UCTowqD_AhGEF_z5-MlSN_ZQ   *")
 print("\n****************************************************************")
 
 # Ask user to input the ip address they want to scan.
