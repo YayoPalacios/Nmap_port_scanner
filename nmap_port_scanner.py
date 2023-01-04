@@ -24,11 +24,6 @@ port_max = 65535
 # Step 2: pip install python-nmap
 
 
-# Basic user interface header
-print("\n****************************************************************")
-print("\n*   https://www.youtube.com/channel/UCTowqD_AhGEF_z5-MlSN_ZQ   *")
-print("\n****************************************************************")
-
 # Ask user to input the ip address they want to scan.
 while True:
     ip_add_entered = input("\nPlease enter the ip address that you want to scan: ")
