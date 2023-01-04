@@ -23,7 +23,6 @@ port_max = 65535
 # Step 1: sudo apt install python3-pip
 # Step 2: pip install python-nmap
 
-
 # Ask user to input the ip address they want to scan.
 while True:
     ip_add_entered = input("\nPlease enter the ip address that you want to scan: ")
@@ -35,7 +34,6 @@ while True:
         break
     except:
         print("You entered an invalid ip address")
-
 
 while True:
     # You can scan 0-65535 ports. This scanner is basic and doesn't use multithreading so scanning all the ports is not advised.
